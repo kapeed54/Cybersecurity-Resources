@@ -1,4 +1,4 @@
-**Lits of Awesome Cybersecurity & Hacking Documentaries**
+List of Awesome Cybersecurity & Hacking Documentaries
 
 Secret History Of Hacking
 https://www.youtube.com/watch?v=PUf1d-GuK0Q
@@ -29,3 +29,7 @@ https://www.youtube.com/watch?v=jUFEeuWqFPE
 
 Web Warriors
 https://www.youtube.com/watch?v=0IY7DL0ihYI
+
+The Century of the Self - Part 1: "Happiness Machines"
+https://www.youtube.com/watch?v=DnPmg0R1M04
+
